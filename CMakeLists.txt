@@ -9,4 +9,8 @@ add_executable(CPP main.cpp
         firstTask/example/firstTaskExample.cpp
         firstTask/example/firstTaskExample.h
         firstTask/solution/firstTaskSolution.cpp
-        firstTask/solution/firstTaskSolution.h)
+        firstTask/solution/firstTaskSolution.h
+        secondTask/solution/secondTaskSolution.cpp
+        secondTask/solution/RectangledTriangle.h
+        secondTask/solution/SecondTaskSolution.cpp
+        secondTask/solution/RectangledTriangle.h)
