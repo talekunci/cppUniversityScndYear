@@ -4,13 +4,11 @@ project(CPP)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(CPP main.cpp
-        firstTask/main.cpp
-        firstTask/main.h
-        firstTask/example/firstTaskExample.cpp
-        firstTask/example/firstTaskExample.h
-        firstTask/solution/firstTaskSolution.cpp
-        firstTask/solution/firstTaskSolution.h
-        secondTask/solution/secondTaskSolution.cpp
-        secondTask/solution/RectangledTriangle.h
-        secondTask/solution/SecondTaskSolution.cpp
-        secondTask/solution/RectangledTriangle.h)
+        thirdTask/solution/Date.cpp
+        thirdTask/solution/Date.h
+        thirdTask/solution/ParticipantCompetition.cpp
+        thirdTask/solution/ParticipantCompetition.h
+        thirdTask/solution/Show.cpp
+        thirdTask/solution/Show.h
+        thirdTask/solution/Competition.cpp
+        thirdTask/solution/Competition.h)
